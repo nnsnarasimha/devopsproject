@@ -1,7 +1,7 @@
 # This is a Dockerfile to create centos base iamge
 
 FROM scratch
-MAINTAINER Ravdy <arsr319@gmail.com>
+MAINTAINER nnsnarasimha@gmail.com
 LABEL Version="1.0.0" \
         release-date="2017-10-06" \
         licence="Apache 2.0" \
