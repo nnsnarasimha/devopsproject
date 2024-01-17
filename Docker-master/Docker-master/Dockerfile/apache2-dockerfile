@@ -2,7 +2,7 @@
 
 FROM ubuntu:12.04
 
-MAINTAINER Ravi Shankar <arsr319@gmail.com>
+MAINTAINER Narasimha N <nnsnarasimha@gmail.com>
 
 LABEL version="1.0" \
         release="2017-10-07"
